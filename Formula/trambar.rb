@@ -1,8 +1,8 @@
 class Trambar < Formula
   desc "Live tram, bus and train departures for Chemnitz / VMS in the macOS menu bar"
   homepage "https://github.com/tanvieer/trambar"
-  url "https://github.com/tanvieer/trambar/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "119a51dc61671797e936e6980dd061486b4fb63bf231b7dc7db9095ef386cc8d"
+  url "https://github.com/tanvieer/trambar/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "9a732acf2ac774b9f2b4d75385d90764c94cf0a9baf565658575c13c764e88ce"
   license "MIT"
 
   depends_on macos: :sonoma
